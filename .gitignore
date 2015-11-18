@@ -1,0 +1,7 @@
+migrations
+venv
+*.pyc
+*.sqlite
+tests
+.DS_Store
+.idea
